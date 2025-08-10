@@ -1,1 +1,1 @@
-![Preview](/zen-window-controls/Preview.png?raw=true "Preview")
+![Preview](/Preview.png?raw=true "Preview")
